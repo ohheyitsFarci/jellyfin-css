@@ -1,0 +1,17 @@
+/*Square corners and square hover buttons*/
+.cardContent-button, 
+.cardContent-shadow, 
+.itemDetailImage, 
+.cardOverlayButton-hover, 
+.cardOverlayContainer,
+.listItemImage,
+.listItemImageButton,
+.listItemButton,
+.headerButton,
+.paper-icon-button-light
+{border-radius: 0px;}
+
+/*Minimalistic play buttons*/
+.listItemImageButton-icon {padding: 0;}
+.cardOverlayFab-primary {background-color: #00000000;}
+.cardOverlayButtonIcon {background-color: #00000000 !important;}
